@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:layout_weight="6"
-            app:srcCompat="@drawable/montauru" />
+            app:srcCompat="@drawable/montauRu" />
 
         <Button
             android:id="@+id/b_connexion"
